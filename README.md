@@ -83,4 +83,3 @@ I want to build the habit of writing reliable, maintainable software by making t
 
 ---
 
-*"Code that isn't tested is code you only hope works."*
